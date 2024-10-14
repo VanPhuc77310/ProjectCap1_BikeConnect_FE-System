@@ -1,0 +1,1 @@
+folder này dùng để link - truyền đường dẫn
