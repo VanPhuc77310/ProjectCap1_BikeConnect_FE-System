@@ -1,1 +1,0 @@
-folder này sẽ dùng để gọi các component rồi chạy ở đây
